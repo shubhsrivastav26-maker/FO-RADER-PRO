@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23 Nov 2026, 05:13 PM IST",
+  "lastUpdated": "23 Nov 2026, 07:49 PM IST",
   "totalScanned": 39,
   "stocks": [
     {
@@ -23,7 +23,22 @@
         "Volume 6.3x vs recent average",
         "RSI at 35 supporting bearish pressure"
       ],
-      "news": []
+      "news": [
+        {
+          "ticker": "TATASTEEL",
+          "headline": "Tata Steel to Acquire Controlling Stake in APL Apollo in \u20b932,266 Crore Deal; Shares Fall",
+          "source": "Kotak Neo",
+          "time": "Mon, 23 Nov 2026",
+          "sentiment": "NEGATIVE"
+        },
+        {
+          "ticker": "TATASTEEL",
+          "headline": "Tata Steel to Acquire 26.38% Stake in APL Apollo Tubes (NSE:APLAPOLLO) in Rs 2,100 Per Share Deal",
+          "source": "Kalkine Media",
+          "time": "Mon, 23 Nov 2026",
+          "sentiment": "NEUTRAL"
+        }
+      ]
     },
     {
       "ticker": "HINDALCO",
@@ -46,7 +61,22 @@
         "Volume 1.2x vs recent average",
         "RSI at 47 supporting bearish pressure"
       ],
-      "news": []
+      "news": [
+        {
+          "ticker": "HINDALCO",
+          "headline": "Hindalco Industries Share Price",
+          "source": "Upstox",
+          "time": "Fri, 20 Nov 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "HINDALCO",
+          "headline": "Hindalco Industries (HINDALCO) Share Price Today (NSE), Market News",
+          "source": "TechGraph",
+          "time": "Thu, 10 Sep 2026",
+          "sentiment": "NEUTRAL"
+        }
+      ]
     },
     {
       "ticker": "TCS",
@@ -68,7 +98,22 @@
         "Trading above EMA (\u20b92445.0) with positive bias",
         "Volume 2.6x vs recent average"
       ],
-      "news": []
+      "news": [
+        {
+          "ticker": "TCS",
+          "headline": "Tata Consultancy Services Limited (TCS.NS) stock price, news, quote and history",
+          "source": "Yahoo Finance Singapore",
+          "time": "Sat, 21 Nov 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "TCS",
+          "headline": "Tata Consultancy Services (NSEI:TCS) Stock Forecast & Analyst Predictions",
+          "source": "Simply Wall St",
+          "time": "Fri, 20 Nov 2026",
+          "sentiment": "NEUTRAL"
+        }
+      ]
     },
     {
       "ticker": "TECHM",
@@ -90,7 +135,22 @@
         "Trading above EMA (\u20b91774.8) with positive bias",
         "Volume 1.6x vs recent average"
       ],
-      "news": []
+      "news": [
+        {
+          "ticker": "TECHM",
+          "headline": "Tech Mahindra (TECHM) Share Price Today (NSE), Market News",
+          "source": "TechGraph",
+          "time": "Fri, 11 Sep 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "TECHM",
+          "headline": "Tech Mahindra misses Q4 profit estimate; stock down over 3% in two sessions",
+          "source": "Business Standard",
+          "time": "Thu, 23 Apr 2026",
+          "sentiment": "POSITIVE"
+        }
+      ]
     },
     {
       "ticker": "NTPC",
@@ -112,7 +172,22 @@
         "Trading below EMA (\u20b9316.2) showing weakness",
         "RSI at 46 supporting bearish pressure"
       ],
-      "news": []
+      "news": [
+        {
+          "ticker": "NTPC",
+          "headline": "NTPC Ltd. Share Price Today - NTPC Ltd. Stock Price Live NSE/BSE",
+          "source": "CNBC TV18",
+          "time": "Fri, 20 Nov 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "NTPC",
+          "headline": "NTPC Forecast \u2014 Price Target \u2014 Prediction for 2027",
+          "source": "TradingView",
+          "time": "Thu, 25 Jun 2026",
+          "sentiment": "NEUTRAL"
+        }
+      ]
     },
     {
       "ticker": "HAL",
@@ -134,7 +209,22 @@
         "Trading below EMA (\u20b94819.4) showing weakness",
         "RSI at 45 supporting bearish pressure"
       ],
-      "news": []
+      "news": [
+        {
+          "ticker": "HAL",
+          "headline": "HAL Share Price",
+          "source": "Upstox",
+          "time": "Mon, 23 Nov 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "HAL",
+          "headline": "Hindustan Aeronautics share price rises 3% on heavy volume; here's why",
+          "source": "Business Standard",
+          "time": "Tue, 06 Oct 2026",
+          "sentiment": "NEUTRAL"
+        }
+      ]
     },
     {
       "ticker": "ADANIPORTS",
@@ -156,7 +246,22 @@
         "Trading above EMA (\u20b91873.1) with positive bias",
         "RSI at 61 supporting bullish momentum"
       ],
-      "news": []
+      "news": [
+        {
+          "ticker": "ADANIPORTS",
+          "headline": "Adani Ports and Special Economic Zone (NSEI:ADANIPORTS) Stock Forecast & Analyst Predictions",
+          "source": "Simply Wall St",
+          "time": "Thu, 19 Nov 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "ADANIPORTS",
+          "headline": "Adani Ports hits new life-time high; Emkay lifts target price by 5%",
+          "source": "Business Standard",
+          "time": "Wed, 01 Jul 2026",
+          "sentiment": "POSITIVE"
+        }
+      ]
     },
     {
       "ticker": "COALINDIA",
@@ -178,7 +283,22 @@
         "Trading below EMA (\u20b9392.6) showing weakness",
         "RSI at 34 supporting bearish pressure"
       ],
-      "news": []
+      "news": [
+        {
+          "ticker": "COALINDIA",
+          "headline": "Mahanadi Coalfields IPO fully subscribed on last day of bidding; check latest GMP",
+          "source": "Moneycontrol.com",
+          "time": "Mon, 23 Nov 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "COALINDIA",
+          "headline": "Mahanadi Coalfields IPO fully subscribed on Day 3: Check allotment date and steps",
+          "source": "Upstox",
+          "time": "Mon, 23 Nov 2026",
+          "sentiment": "NEUTRAL"
+        }
+      ]
     },
     {
       "ticker": "ONGC",
@@ -200,7 +320,22 @@
         "Trading below EMA (\u20b9223.4) showing weakness",
         "RSI at 43 supporting bearish pressure"
       ],
-      "news": []
+      "news": [
+        {
+          "ticker": "ONGC",
+          "headline": "ONGC Option Chain: Live NSE Option Chain Data, OI & Price",
+          "source": "Kotak Neo",
+          "time": "Fri, 20 Nov 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "ONGC",
+          "headline": "ONGC Forecast \u2014 Price Target \u2014 Prediction for 2027",
+          "source": "TradingView",
+          "time": "Thu, 25 Jun 2026",
+          "sentiment": "NEUTRAL"
+        }
+      ]
     },
     {
       "ticker": "ASHOKLEY",
@@ -221,7 +356,22 @@
       "reasons": [
         "Trading below EMA (\u20b9159.5) showing weakness"
       ],
-      "news": []
+      "news": [
+        {
+          "ticker": "ASHOKLEY",
+          "headline": "ASHOKLEY Share Price Today - Ashok Leyland on NSE/BSE",
+          "source": "scanx.trade",
+          "time": "Sat, 21 Nov 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "ASHOKLEY",
+          "headline": "Ashok Leyland (NSEI:ASHOKLEY) - Stock Analysis",
+          "source": "Simply Wall St",
+          "time": "Fri, 20 Nov 2026",
+          "sentiment": "NEUTRAL"
+        }
+      ]
     },
     {
       "ticker": "DLF",
@@ -242,7 +392,22 @@
       "reasons": [
         "Trading above EMA (\u20b9740.2) with positive bias"
       ],
-      "news": []
+      "news": [
+        {
+          "ticker": "DLF",
+          "headline": "DLF dips 3% after weak Q1; Nomura sees recovery in launches, eyes 11% gains",
+          "source": "Business Standard",
+          "time": "Tue, 04 Aug 2026",
+          "sentiment": "POSITIVE"
+        },
+        {
+          "ticker": "DLF",
+          "headline": "DLF Forecast \u2014 Price Target \u2014 Prediction for 2027",
+          "source": "TradingView",
+          "time": "Thu, 25 Jun 2026",
+          "sentiment": "NEUTRAL"
+        }
+      ]
     },
     {
       "ticker": "JIOFIN",
@@ -263,8 +428,108 @@
       "reasons": [
         "Trading below EMA (\u20b9221.1) showing weakness"
       ],
-      "news": []
+      "news": [
+        {
+          "ticker": "JIOFIN",
+          "headline": "JIO Finance Share Price - Live NSE: JIOFIN Stock Price & Chart",
+          "source": "Upstox",
+          "time": "Fri, 20 Nov 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "JIOFIN",
+          "headline": "JIOFIN Stock Price and Chart \u2014 NSE:JIOFIN",
+          "source": "TradingView",
+          "time": "Thu, 05 Nov 2026",
+          "sentiment": "NEUTRAL"
+        }
+      ]
     }
   ],
-  "newsFeed": []
+  "newsFeed": [
+    {
+      "ticker": "TCS",
+      "headline": "Tata Consultancy Services Limited (TCS.NS) stock price, news, quote and history",
+      "source": "Yahoo Finance Singapore",
+      "time": "Sat, 21 Nov 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "TCS",
+      "headline": "Tata Consultancy Services (NSEI:TCS) Stock Forecast & Analyst Predictions",
+      "source": "Simply Wall St",
+      "time": "Fri, 20 Nov 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "NTPC",
+      "headline": "NTPC Ltd. Share Price Today - NTPC Ltd. Stock Price Live NSE/BSE",
+      "source": "CNBC TV18",
+      "time": "Fri, 20 Nov 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "NTPC",
+      "headline": "NTPC Forecast \u2014 Price Target \u2014 Prediction for 2027",
+      "source": "TradingView",
+      "time": "Thu, 25 Jun 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "TATASTEEL",
+      "headline": "Tata Steel to Acquire Controlling Stake in APL Apollo in \u20b932,266 Crore Deal; Shares Fall",
+      "source": "Kotak Neo",
+      "time": "Mon, 23 Nov 2026",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "ticker": "TATASTEEL",
+      "headline": "Tata Steel to Acquire 26.38% Stake in APL Apollo Tubes (NSE:APLAPOLLO) in Rs 2,100 Per Share Deal",
+      "source": "Kalkine Media",
+      "time": "Mon, 23 Nov 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "HINDALCO",
+      "headline": "Hindalco Industries Share Price",
+      "source": "Upstox",
+      "time": "Fri, 20 Nov 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "HINDALCO",
+      "headline": "Hindalco Industries (HINDALCO) Share Price Today (NSE), Market News",
+      "source": "TechGraph",
+      "time": "Thu, 10 Sep 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "HAL",
+      "headline": "HAL Share Price",
+      "source": "Upstox",
+      "time": "Mon, 23 Nov 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "HAL",
+      "headline": "Hindustan Aeronautics share price rises 3% on heavy volume; here's why",
+      "source": "Business Standard",
+      "time": "Tue, 06 Oct 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "ASHOKLEY",
+      "headline": "ASHOKLEY Share Price Today - Ashok Leyland on NSE/BSE",
+      "source": "scanx.trade",
+      "time": "Sat, 21 Nov 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "ASHOKLEY",
+      "headline": "Ashok Leyland (NSEI:ASHOKLEY) - Stock Analysis",
+      "source": "Simply Wall St",
+      "time": "Fri, 20 Nov 2026",
+      "sentiment": "NEUTRAL"
+    }
+  ]
 }

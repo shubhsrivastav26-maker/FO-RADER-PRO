@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24 Nov 2026, 06:43 PM IST",
+  "lastUpdated": "24 Nov 2026, 08:13 PM IST",
   "totalScanned": 39,
   "stocks": [
     {
@@ -26,17 +26,17 @@
       "news": [
         {
           "ticker": "TATASTEEL",
-          "headline": "Tata Steel to Acquire Controlling Stake in APL Apollo in \u20b932,266 Crore Deal; Shares Fall",
-          "source": "Kotak Neo",
-          "time": "Mon, 23 Nov 2026",
-          "sentiment": "NEGATIVE"
+          "headline": "Why Tata Steel Shares Crashed 8% After APL Apollo Deal",
+          "source": "Equitypandit",
+          "time": "Tue, 24 Nov 2026",
+          "sentiment": "NEUTRAL"
         },
         {
           "ticker": "TATASTEEL",
-          "headline": "Tata Steel spurts 3% in Muhurat trading session post steady Q2 earnings",
-          "source": "Business Standard",
-          "time": "Sun, 08 Nov 2026",
-          "sentiment": "NEUTRAL"
+          "headline": "Why Is APL Apollo Tubes Share Price Falling Today? Stock Crashes Nearly 18% After Tata Steel Deal",
+          "source": "Kotak Neo",
+          "time": "Mon, 23 Nov 2026",
+          "sentiment": "NEGATIVE"
         }
       ]
     },
@@ -108,9 +108,9 @@
         },
         {
           "ticker": "TCS",
-          "headline": "Tata Consultancy Services: The Operating Milestones Behind the N",
-          "source": "Kalkine India",
-          "time": "Mon, 23 Nov 2026",
+          "headline": "Tata Consultancy Services (TCS) Share Price Today (NSE), Market News",
+          "source": "TechGraph",
+          "time": "Mon, 07 Sep 2026",
           "sentiment": "NEUTRAL"
         }
       ]
@@ -175,16 +175,16 @@
       "news": [
         {
           "ticker": "NTPC",
-          "headline": "NTPC Share Price Today - NTPC Stock Analysis",
-          "source": "Equitypandit",
-          "time": "Sat, 21 Nov 2026",
+          "headline": "NTPC Ltd. Share Price Today - NTPC Ltd. Stock Price Live NSE/BSE",
+          "source": "CNBC TV18",
+          "time": "Fri, 20 Nov 2026",
           "sentiment": "NEUTRAL"
         },
         {
           "ticker": "NTPC",
-          "headline": "NTPC Ltd. Share Price Today - NTPC Ltd. Stock Price Live NSE/BSE",
-          "source": "CNBC TV18",
-          "time": "Fri, 20 Nov 2026",
+          "headline": "NTPC Share Price Today - NTPC Stock Analysis",
+          "source": "Equitypandit",
+          "time": "Sat, 21 Nov 2026",
           "sentiment": "NEUTRAL"
         }
       ]
@@ -219,9 +219,9 @@
         },
         {
           "ticker": "HAL",
-          "headline": "Hindustan Aeronautics share price rises 3% on heavy volume; here's why",
-          "source": "Business Standard",
-          "time": "Tue, 06 Oct 2026",
+          "headline": "Hindustan Aeronautics Ltd. Share Price Today - Hindustan Aeronautics Ltd. Stock Price Live NSE/BSE",
+          "source": "CNBC TV18",
+          "time": "Fri, 20 Nov 2026",
           "sentiment": "NEUTRAL"
         }
       ]
@@ -456,16 +456,9 @@
     },
     {
       "ticker": "TCS",
-      "headline": "Tata Consultancy Services: The Operating Milestones Behind the N",
-      "source": "Kalkine India",
-      "time": "Mon, 23 Nov 2026",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "ticker": "NTPC",
-      "headline": "NTPC Share Price Today - NTPC Stock Analysis",
-      "source": "Equitypandit",
-      "time": "Sat, 21 Nov 2026",
+      "headline": "Tata Consultancy Services (TCS) Share Price Today (NSE), Market News",
+      "source": "TechGraph",
+      "time": "Mon, 07 Sep 2026",
       "sentiment": "NEUTRAL"
     },
     {
@@ -476,18 +469,25 @@
       "sentiment": "NEUTRAL"
     },
     {
-      "ticker": "TATASTEEL",
-      "headline": "Tata Steel to Acquire Controlling Stake in APL Apollo in \u20b932,266 Crore Deal; Shares Fall",
-      "source": "Kotak Neo",
-      "time": "Mon, 23 Nov 2026",
-      "sentiment": "NEGATIVE"
+      "ticker": "NTPC",
+      "headline": "NTPC Share Price Today - NTPC Stock Analysis",
+      "source": "Equitypandit",
+      "time": "Sat, 21 Nov 2026",
+      "sentiment": "NEUTRAL"
     },
     {
       "ticker": "TATASTEEL",
-      "headline": "Tata Steel spurts 3% in Muhurat trading session post steady Q2 earnings",
-      "source": "Business Standard",
-      "time": "Sun, 08 Nov 2026",
+      "headline": "Why Tata Steel Shares Crashed 8% After APL Apollo Deal",
+      "source": "Equitypandit",
+      "time": "Tue, 24 Nov 2026",
       "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "TATASTEEL",
+      "headline": "Why Is APL Apollo Tubes Share Price Falling Today? Stock Crashes Nearly 18% After Tata Steel Deal",
+      "source": "Kotak Neo",
+      "time": "Mon, 23 Nov 2026",
+      "sentiment": "NEGATIVE"
     },
     {
       "ticker": "HINDALCO",
@@ -512,9 +512,9 @@
     },
     {
       "ticker": "HAL",
-      "headline": "Hindustan Aeronautics share price rises 3% on heavy volume; here's why",
-      "source": "Business Standard",
-      "time": "Tue, 06 Oct 2026",
+      "headline": "Hindustan Aeronautics Ltd. Share Price Today - Hindustan Aeronautics Ltd. Stock Price Live NSE/BSE",
+      "source": "CNBC TV18",
+      "time": "Fri, 20 Nov 2026",
       "sentiment": "NEUTRAL"
     },
     {

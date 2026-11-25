@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25 Nov 2026, 05:33 PM IST",
+  "lastUpdated": "25 Nov 2026, 07:35 PM IST",
   "totalScanned": 39,
   "stocks": [
     {
@@ -102,17 +102,17 @@
       "news": [
         {
           "ticker": "TATASTEEL",
-          "headline": "APL Apollo Tubes Falls 22%, Tata Steel Slumps 10% After Business Restructuring",
-          "source": "Kotak Neo",
-          "time": "Wed, 25 Nov 2026",
-          "sentiment": "NEGATIVE"
-        },
-        {
-          "ticker": "TATASTEEL",
           "headline": "Why Tata Steel Shares Crashed 8% After APL Apollo Deal",
           "source": "Equitypandit",
           "time": "Tue, 24 Nov 2026",
           "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "TATASTEEL",
+          "headline": "APL Apollo Tubes shares end nearly 12% lower, crash 30% in two sessions amid Tata Steel deal concerns",
+          "source": "Moneycontrol.com",
+          "time": "Wed, 25 Nov 2026",
+          "sentiment": "NEGATIVE"
         }
       ]
     },
@@ -216,16 +216,16 @@
       "news": [
         {
           "ticker": "COALINDIA",
-          "headline": "Mahanadi Coalfields IPO allotment: How to check status online on NSE, BSE, KFin Technologies; listing date, time here",
-          "source": "Upstox",
-          "time": "Wed, 25 Nov 2026",
+          "headline": "Mahanadi Coalfields IPO allotment tomorrow; check status on BSE, NSE and registrar",
+          "source": "Moneycontrol.com",
+          "time": "Tue, 24 Nov 2026",
           "sentiment": "NEUTRAL"
         },
         {
           "ticker": "COALINDIA",
-          "headline": "Mahanadi Coalfields IPO allotment tomorrow; check status on BSE, NSE and registrar",
-          "source": "Moneycontrol.com",
-          "time": "Tue, 24 Nov 2026",
+          "headline": "Coal India Share Price Today Live NSE/BSE Graph & Chart",
+          "source": "Kotak Neo",
+          "time": "Sat, 17 Jan 2026",
           "sentiment": "NEUTRAL"
         }
       ]
@@ -330,17 +330,17 @@
       "news": [
         {
           "ticker": "BPCL",
+          "headline": "BPCL Share Price Today - Bharat Petroleum on NSE/BSE",
+          "source": "scanx.trade",
+          "time": "Mon, 23 Nov 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "BPCL",
           "headline": "BPCL Share Price Falls 2.1%; Valuation and Peers",
           "source": "Univest",
           "time": "Mon, 23 Nov 2026",
           "sentiment": "NEGATIVE"
-        },
-        {
-          "ticker": "BPCL",
-          "headline": "BPCL Share Declines Nearly 3% Intraday; State-Run Refiner to Acquire 40% Stake in Tiki Tar and Shell India for Rs 85 Crore",
-          "source": "HDFC Sky",
-          "time": "Mon, 29 Jun 2026",
-          "sentiment": "NEUTRAL"
         }
       ]
     },
@@ -367,17 +367,17 @@
       "news": [
         {
           "ticker": "RELIANCE",
-          "headline": "Reliance Option Chain: Live NSE Option Chain Data, OI & Price",
-          "source": "Kotak Neo",
-          "time": "Mon, 23 Nov 2026",
-          "sentiment": "NEUTRAL"
-        },
-        {
-          "ticker": "RELIANCE",
           "headline": "Bell-ringing ceremony marks the stock market debut of Jio Platforms Limited",
           "source": "Facebook",
           "time": "Tue, 27 Oct 2026",
           "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "RELIANCE",
+          "headline": "Is It Smart To Buy Reliance Industries Limited (NSE:RELIANCE) Before It Goes Ex-Dividend?",
+          "source": "Simply Wall St",
+          "time": "Sun, 31 May 2026",
+          "sentiment": "POSITIVE"
         }
       ]
     },
@@ -404,16 +404,16 @@
       "news": [
         {
           "ticker": "INFY",
-          "headline": "Infosys Limited (INFY.NS) Stock Price, News, Quote & History",
-          "source": "Yahoo! Finance Canada",
-          "time": "Wed, 25 Nov 2026",
+          "headline": "Infosys Share Price Today Live NSE/BSE Graph & Chart",
+          "source": "Kotak Neo",
+          "time": "Sat, 17 Jan 2026",
           "sentiment": "NEUTRAL"
         },
         {
           "ticker": "INFY",
-          "headline": "HCL Tech Share Price Today, HCL Tech Stock Price Live NSE/BSE Updates",
-          "source": "The Economic Times",
-          "time": "Tue, 24 Nov 2026",
+          "headline": "INFY Forecast \u2014 Price Target \u2014 Prediction for 2027",
+          "source": "TradingView",
+          "time": "Thu, 25 Jun 2026",
           "sentiment": "NEUTRAL"
         }
       ]
@@ -448,10 +448,10 @@
         },
         {
           "ticker": "HAL",
-          "headline": "HAL Forecast \u2014 Price Target \u2014 Prediction for 2027",
-          "source": "TradingView",
-          "time": "Thu, 25 Jun 2026",
-          "sentiment": "NEUTRAL"
+          "headline": "Hindustan Aeronautics shares gain 11% in a month; all eyes on Q1 result amid easing engine supply issues",
+          "source": "Upstox",
+          "time": "Fri, 07 Aug 2026",
+          "sentiment": "POSITIVE"
         }
       ]
     },
@@ -570,31 +570,31 @@
   "newsFeed": [
     {
       "ticker": "RELIANCE",
-      "headline": "Reliance Option Chain: Live NSE Option Chain Data, OI & Price",
-      "source": "Kotak Neo",
-      "time": "Mon, 23 Nov 2026",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "ticker": "RELIANCE",
       "headline": "Bell-ringing ceremony marks the stock market debut of Jio Platforms Limited",
       "source": "Facebook",
       "time": "Tue, 27 Oct 2026",
       "sentiment": "NEUTRAL"
     },
     {
+      "ticker": "RELIANCE",
+      "headline": "Is It Smart To Buy Reliance Industries Limited (NSE:RELIANCE) Before It Goes Ex-Dividend?",
+      "source": "Simply Wall St",
+      "time": "Sun, 31 May 2026",
+      "sentiment": "POSITIVE"
+    },
+    {
       "ticker": "HDFCBANK",
-      "headline": "HDFC Bank Share Price - Live NSE: HDFCBANK Stock Price & Chart",
-      "source": "Upstox",
+      "headline": "HDFC Bank Limited (HDFCBANK.NS) Stock Price, News, Quote & History",
+      "source": "Yahoo! Finance Canada",
       "time": "Tue, 24 Nov 2026",
       "sentiment": "NEUTRAL"
     },
     {
       "ticker": "HDFCBANK",
-      "headline": "HDFC Bank jumps 18% as Bank Nifty hits a record. Has it recovered its 2026 losses?",
-      "source": "Upstox",
-      "time": "Wed, 25 Nov 2026",
-      "sentiment": "POSITIVE"
+      "headline": "HDFCBANK Option Chain: Live NSE Option Chain Data, OI & Price",
+      "source": "Kotak Neo",
+      "time": "Tue, 24 Nov 2026",
+      "sentiment": "NEUTRAL"
     },
     {
       "ticker": "ICICIBANK",
@@ -612,16 +612,16 @@
     },
     {
       "ticker": "INFY",
-      "headline": "Infosys Limited (INFY.NS) Stock Price, News, Quote & History",
-      "source": "Yahoo! Finance Canada",
-      "time": "Wed, 25 Nov 2026",
+      "headline": "Infosys Share Price Today Live NSE/BSE Graph & Chart",
+      "source": "Kotak Neo",
+      "time": "Sat, 17 Jan 2026",
       "sentiment": "NEUTRAL"
     },
     {
       "ticker": "INFY",
-      "headline": "HCL Tech Share Price Today, HCL Tech Stock Price Live NSE/BSE Updates",
-      "source": "The Economic Times",
-      "time": "Tue, 24 Nov 2026",
+      "headline": "INFY Forecast \u2014 Price Target \u2014 Prediction for 2027",
+      "source": "TradingView",
+      "time": "Thu, 25 Jun 2026",
       "sentiment": "NEUTRAL"
     },
     {
@@ -640,17 +640,17 @@
     },
     {
       "ticker": "SBIN",
-      "headline": "SBI Option Chain: Live NSE Option Chain Data, OI & Price",
-      "source": "Kotak Neo",
-      "time": "Mon, 23 Nov 2026",
+      "headline": "QUICK TAKE | Meet NSE, India\u2019s Ninth Most Valuable Company: Seven Things to Know",
+      "source": "Open Magazine",
+      "time": "Wed, 25 Nov 2026",
       "sentiment": "NEUTRAL"
     },
     {
       "ticker": "SBIN",
-      "headline": "NSE market cap crosses Rs 5.76 lakh crore, shares rally over 27% in two months, 9th most valued company",
-      "source": "www.indiagazette.com",
-      "time": "Wed, 25 Nov 2026",
-      "sentiment": "POSITIVE"
+      "headline": "NIBE Ltd. Share Price Today - NIBE Ltd. Stock Price Live NSE/BSE",
+      "source": "CNBC TV18",
+      "time": "Mon, 23 Nov 2026",
+      "sentiment": "NEUTRAL"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "26 Nov 2026, 05:20 PM IST",
+  "lastUpdated": "26 Nov 2026, 07:13 PM IST",
   "totalScanned": 39,
   "stocks": [
     {
@@ -26,16 +26,16 @@
       "news": [
         {
           "ticker": "INFY",
-          "headline": "Infosys Share Price - Live NSE: INFY Stock Price & Chart",
-          "source": "Upstox",
+          "headline": "NSE rises 5.5% to enter India's top 10 most valuable companies list; overtakes L&T, LIC, Infosys",
+          "source": "Moneycontrol.com",
           "time": "Wed, 25 Nov 2026",
           "sentiment": "NEUTRAL"
         },
         {
           "ticker": "INFY",
-          "headline": "HCL Tech Share Price Today, HCL Tech Stock Price Live NSE/BSE Updates",
-          "source": "The Economic Times",
-          "time": "Wed, 25 Nov 2026",
+          "headline": "INFY Forecast \u2014 Price Target \u2014 Prediction for 2027",
+          "source": "TradingView",
+          "time": "Thu, 25 Jun 2026",
           "sentiment": "NEUTRAL"
         }
       ]
@@ -66,7 +66,7 @@
           "ticker": "TCS",
           "headline": "Tata Consultancy Services Limited (TCS.NS) stock price, news, quote and history",
           "source": "Yahoo Finance Singapore",
-          "time": "Tue, 24 Nov 2026",
+          "time": "Thu, 26 Nov 2026",
           "sentiment": "NEUTRAL"
         },
         {
@@ -137,22 +137,7 @@
         "Volume 1.2x vs recent average",
         "RSI at 74 supporting bullish momentum"
       ],
-      "news": [
-        {
-          "ticker": "SUNPHARMA",
-          "headline": "Sun Pharmaceutical Industries (NSEI:SUNPHARMA) Stock Forecast & Analyst Predictions",
-          "source": "Simply Wall St",
-          "time": "Mon, 23 Nov 2026",
-          "sentiment": "NEUTRAL"
-        },
-        {
-          "ticker": "SUNPHARMA",
-          "headline": "Sun Pharma Share Price Rises After USFDA Approves ILUMYA for Psoriatic Arthritis Treatment",
-          "source": "Kotak Neo",
-          "time": "Fri, 30 Oct 2026",
-          "sentiment": "NEUTRAL"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "JSWSTEEL",
@@ -178,16 +163,16 @@
       "news": [
         {
           "ticker": "JSWSTEEL",
-          "headline": "We Think That There Are Issues Underlying JSW Steel's (NSE:JSWSTEEL) Earnings",
-          "source": "Simply Wall St",
-          "time": "Fri, 22 May 2026",
+          "headline": "JSW Steel Stock: Trading, Earnings and Momentum",
+          "source": "Kalkine India",
+          "time": "Tue, 24 Nov 2026",
           "sentiment": "NEUTRAL"
         },
         {
           "ticker": "JSWSTEEL",
-          "headline": "JSW Steel Limited (NSE:JSWSTEEL) Passed Our Checks, And It's About To Pay A \u20b97.10 Dividend",
-          "source": "Simply Wall St",
-          "time": "Fri, 03 Jul 2026",
+          "headline": "JSWSTEEL Forecast \u2014 Price Target \u2014 Prediction for 2027",
+          "source": "TradingView",
+          "time": "Thu, 25 Jun 2026",
           "sentiment": "NEUTRAL"
         }
       ]
@@ -216,16 +201,16 @@
       "news": [
         {
           "ticker": "TRENT",
-          "headline": "Trent shares jump over 6% on strong Q2 nos; brokerages stay bullish",
-          "source": "Business Standard",
-          "time": "Fri, 30 Oct 2026",
-          "sentiment": "POSITIVE"
+          "headline": "Shriram Finance Replaces Trent in BSE Sensex: Check All Stock Additions and Exits Across BSE 100, Sensex 50 and Other Indices",
+          "source": "Kotak Neo",
+          "time": "Fri, 20 Nov 2026",
+          "sentiment": "NEUTRAL"
         },
         {
           "ticker": "TRENT",
-          "headline": "Trent shares crash 12% after Q1 update; 19% revenue growth fails to impress. Here is why",
-          "source": "Upstox",
-          "time": "Tue, 07 Jul 2026",
+          "headline": "Trent shares jump over 6% on strong Q2 nos; brokerages stay bullish",
+          "source": "Business Standard",
+          "time": "Fri, 30 Oct 2026",
           "sentiment": "POSITIVE"
         }
       ]
@@ -254,16 +239,16 @@
       "news": [
         {
           "ticker": "WIPRO",
-          "headline": "Stock market holidays in November 2026: NSE, BSE to remain closed on THESE days; check Muhurat trading schedule",
-          "source": "Upstox",
-          "time": "Thu, 26 Nov 2026",
+          "headline": "Wipro (WIPRO) Share Price Today (NSE), Market News",
+          "source": "TechGraph",
+          "time": "Sun, 06 Sep 2026",
           "sentiment": "NEUTRAL"
         },
         {
           "ticker": "WIPRO",
-          "headline": "Wipro (WIPRO) Share Price Today (NSE), Market News",
-          "source": "TechGraph",
-          "time": "Sun, 06 Sep 2026",
+          "headline": "Wipro down 4% post Q4; muted Q1 guidance, delayed ramp-ups spook investors",
+          "source": "Business Standard",
+          "time": "Fri, 17 Apr 2026",
           "sentiment": "NEUTRAL"
         }
       ]
@@ -292,17 +277,17 @@
       "news": [
         {
           "ticker": "HCLTECH",
-          "headline": "HCL Tech Share Price Today, HCL Tech Stock Price Live NSE/BSE Updates",
-          "source": "The Economic Times",
+          "headline": "HCL Technologies Share Price - Live NSE: HCLTECH Stock Price & Chart",
+          "source": "Upstox",
           "time": "Wed, 25 Nov 2026",
           "sentiment": "NEUTRAL"
         },
         {
           "ticker": "HCLTECH",
-          "headline": "HCL Technologies Share Price - Live NSE: HCLTECH Stock Price & Chart",
-          "source": "Upstox",
-          "time": "Wed, 25 Nov 2026",
-          "sentiment": "NEUTRAL"
+          "headline": "HCL Tech share price crashes over 10%; Rs 38,000 crore gone from market cap as brokerages downgrade stock",
+          "source": "The Times of India",
+          "time": "Wed, 22 Apr 2026",
+          "sentiment": "NEGATIVE"
         }
       ]
     },
@@ -375,9 +360,9 @@
         },
         {
           "ticker": "COALINDIA",
-          "headline": "Mahanadi Coalfields IPO allotment tomorrow; check status on BSE, NSE and registrar",
-          "source": "Moneycontrol.com",
-          "time": "Tue, 24 Nov 2026",
+          "headline": "Coal India Shares Slip After Q2 Earnings; EBITDA Climbs 28% To \u20b911,447 Crore, Margin Expands",
+          "source": "Kotak Neo",
+          "time": "Fri, 30 Oct 2026",
           "sentiment": "NEUTRAL"
         }
       ]
@@ -525,10 +510,10 @@
         },
         {
           "ticker": "HDFCBANK",
-          "headline": "ITC Limited, HDFC Bank, NMDC Limited post divergent returns",
-          "source": "Multibagg AI",
-          "time": "Wed, 25 Nov 2026",
-          "sentiment": "NEUTRAL"
+          "headline": "HDFC Bank vaults 30% from Oct low; surpasses Airtel in market cap ranking",
+          "source": "Business Standard",
+          "time": "Thu, 26 Nov 2026",
+          "sentiment": "NEGATIVE"
         }
       ]
     },
@@ -555,17 +540,17 @@
       "news": [
         {
           "ticker": "SBIN",
-          "headline": "QUICK TAKE | Meet NSE, India\u2019s Ninth Most Valuable Company: Seven Things to Know",
-          "source": "Open Magazine",
-          "time": "Wed, 25 Nov 2026",
+          "headline": "SBI Share Price - Live NSE: SBIN Stock Price & Chart",
+          "source": "Upstox",
+          "time": "Thu, 26 Nov 2026",
           "sentiment": "NEUTRAL"
         },
         {
           "ticker": "SBIN",
-          "headline": "NSE market cap crosses Rs 5.76 lakh crore, shares rally over 27% in two months, 9th most valued company",
-          "source": "ANI News",
-          "time": "Wed, 25 Nov 2026",
-          "sentiment": "POSITIVE"
+          "headline": "SBIN Share Price Today - State Bank of India on NSE/BSE",
+          "source": "scanx.trade",
+          "time": "Tue, 24 Nov 2026",
+          "sentiment": "NEUTRAL"
         }
       ]
     }
@@ -594,30 +579,30 @@
     },
     {
       "ticker": "HDFCBANK",
-      "headline": "ITC Limited, HDFC Bank, NMDC Limited post divergent returns",
-      "source": "Multibagg AI",
+      "headline": "HDFC Bank vaults 30% from Oct low; surpasses Airtel in market cap ranking",
+      "source": "Business Standard",
+      "time": "Thu, 26 Nov 2026",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "ticker": "INFY",
+      "headline": "NSE rises 5.5% to enter India's top 10 most valuable companies list; overtakes L&T, LIC, Infosys",
+      "source": "Moneycontrol.com",
       "time": "Wed, 25 Nov 2026",
       "sentiment": "NEUTRAL"
     },
     {
       "ticker": "INFY",
-      "headline": "Infosys Share Price - Live NSE: INFY Stock Price & Chart",
-      "source": "Upstox",
-      "time": "Wed, 25 Nov 2026",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "ticker": "INFY",
-      "headline": "HCL Tech Share Price Today, HCL Tech Stock Price Live NSE/BSE Updates",
-      "source": "The Economic Times",
-      "time": "Wed, 25 Nov 2026",
+      "headline": "INFY Forecast \u2014 Price Target \u2014 Prediction for 2027",
+      "source": "TradingView",
+      "time": "Thu, 25 Jun 2026",
       "sentiment": "NEUTRAL"
     },
     {
       "ticker": "TCS",
       "headline": "Tata Consultancy Services Limited (TCS.NS) stock price, news, quote and history",
       "source": "Yahoo Finance Singapore",
-      "time": "Tue, 24 Nov 2026",
+      "time": "Thu, 26 Nov 2026",
       "sentiment": "NEUTRAL"
     },
     {
@@ -629,17 +614,17 @@
     },
     {
       "ticker": "SBIN",
-      "headline": "QUICK TAKE | Meet NSE, India\u2019s Ninth Most Valuable Company: Seven Things to Know",
-      "source": "Open Magazine",
-      "time": "Wed, 25 Nov 2026",
+      "headline": "SBI Share Price - Live NSE: SBIN Stock Price & Chart",
+      "source": "Upstox",
+      "time": "Thu, 26 Nov 2026",
       "sentiment": "NEUTRAL"
     },
     {
       "ticker": "SBIN",
-      "headline": "NSE market cap crosses Rs 5.76 lakh crore, shares rally over 27% in two months, 9th most valued company",
-      "source": "ANI News",
-      "time": "Wed, 25 Nov 2026",
-      "sentiment": "POSITIVE"
+      "headline": "SBIN Share Price Today - State Bank of India on NSE/BSE",
+      "source": "scanx.trade",
+      "time": "Tue, 24 Nov 2026",
+      "sentiment": "NEUTRAL"
     },
     {
       "ticker": "LT",

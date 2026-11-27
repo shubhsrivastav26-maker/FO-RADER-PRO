@@ -1,80 +1,42 @@
 {
-  "lastUpdated": "26 Nov 2026, 07:13 PM IST",
+  "lastUpdated": "27 Nov 2026, 05:13 PM IST",
   "totalScanned": 39,
   "stocks": [
     {
-      "ticker": "INFY",
-      "name": "Infosys",
-      "sector": "IT",
-      "price": 1183.0,
-      "changePct": 4.69,
+      "ticker": "HDFCBANK",
+      "name": "HDFC Bank",
+      "sector": "Banking",
+      "price": 857.25,
+      "changePct": -0.55,
       "direction": "BULLISH",
       "confidence": 88,
-      "setup": "Volume Surge",
-      "trigger": "Above \u20b91185.0",
-      "stopLoss": "\u20b91148.3",
-      "optionIdea": "1180 CE",
+      "setup": "NR7 Squeeze",
+      "trigger": "Above \u20b9866.2",
+      "stopLoss": "\u20b9855.3",
+      "optionIdea": "860 CE",
       "strategy": "Long Call / Bull Call Spread",
-      "volRatio": 1.8,
-      "rsi": 61.3,
-      "ema20": 1134.8,
+      "volRatio": 0.8,
+      "rsi": 74.8,
+      "ema20": 797.21,
       "reasons": [
-        "Trading above EMA (\u20b91134.8) with positive bias",
-        "Volume 1.8x vs recent average",
-        "RSI at 61 supporting bullish momentum"
+        "NR7 narrow range squeeze \u2014 breakout watch",
+        "Tight range compression before potential expansion",
+        "RSI at 75 supporting bullish momentum"
       ],
       "news": [
         {
-          "ticker": "INFY",
-          "headline": "NSE rises 5.5% to enter India's top 10 most valuable companies list; overtakes L&T, LIC, Infosys",
-          "source": "Moneycontrol.com",
-          "time": "Wed, 25 Nov 2026",
-          "sentiment": "NEUTRAL"
-        },
-        {
-          "ticker": "INFY",
-          "headline": "INFY Forecast \u2014 Price Target \u2014 Prediction for 2027",
-          "source": "TradingView",
-          "time": "Thu, 25 Jun 2026",
-          "sentiment": "NEUTRAL"
-        }
-      ]
-    },
-    {
-      "ticker": "TCS",
-      "name": "Tata Consultancy Services",
-      "sector": "IT",
-      "price": 2640.3,
-      "changePct": 4.89,
-      "direction": "BULLISH",
-      "confidence": 88,
-      "setup": "Volume Surge",
-      "trigger": "Above \u20b92640.3",
-      "stopLoss": "\u20b92523.6",
-      "optionIdea": "2650 CE",
-      "strategy": "Long Call / Bull Call Spread",
-      "volRatio": 1.65,
-      "rsi": 69.7,
-      "ema20": 2470.42,
-      "reasons": [
-        "Trading above EMA (\u20b92470.4) with positive bias",
-        "Volume 1.7x vs recent average",
-        "RSI at 70 supporting bullish momentum"
-      ],
-      "news": [
-        {
-          "ticker": "TCS",
-          "headline": "Tata Consultancy Services Limited (TCS.NS) stock price, news, quote and history",
-          "source": "Yahoo Finance Singapore",
+          "ticker": "HDFCBANK",
+          "headline": "HDFC Bank Limited (HDFCBANK.NS) Stock Price, News, Quote & History",
+          "source": "Yahoo! Finance Canada",
           "time": "Thu, 26 Nov 2026",
           "sentiment": "NEUTRAL"
         },
         {
-          "ticker": "TCS",
-          "headline": "TCS Share Price",
-          "source": "Upstox",
-          "time": "Wed, 25 Nov 2026",
-          "sentiment": "NEUTRAL"
+          "ticker": "HDFCBANK",
+          "headline": "HDFC Bank vaults 30% from Oct low; surpasses Airtel in market cap ranking",
+          "source": "Business Standard",
+          "time": "Thu, 26 Nov 2026",
+          "sentiment": "NEGATIVE"
         }
       ]
     },
@@ -82,29 +44,29 @@
       "ticker": "LT",
       "name": "Larsen & Toubro",
       "sector": "Infrastructure",
-      "price": 4132.1,
-      "changePct": -0.58,
+      "price": 4108.5,
+      "changePct": -0.57,
       "direction": "BULLISH",
       "confidence": 88,
       "setup": "NR7 Squeeze",
-      "trigger": "Above \u20b94160.0",
+      "trigger": "Above \u20b94153.7",
       "stopLoss": "\u20b94105.0",
-      "optionIdea": "4150 CE",
+      "optionIdea": "4100 CE",
       "strategy": "Long Call / Bull Call Spread",
-      "volRatio": 0.67,
-      "rsi": 65.6,
-      "ema20": 4061.61,
+      "volRatio": 0.61,
+      "rsi": 55.6,
+      "ema20": 4064.43,
       "reasons": [
         "NR7 narrow range squeeze \u2014 breakout watch",
         "Tight range compression before potential expansion",
-        "RSI at 66 supporting bullish momentum"
+        "RSI at 56 supporting bullish momentum"
       ],
       "news": [
         {
           "ticker": "LT",
           "headline": "Larsen & Toubro Share Price - Live NSE: LT Stock Price & Chart",
           "source": "Upstox",
-          "time": "Wed, 25 Nov 2026",
+          "time": "Thu, 26 Nov 2026",
           "sentiment": "NEUTRAL"
         },
         {
@@ -120,60 +82,265 @@
       "ticker": "SUNPHARMA",
       "name": "Sun Pharma",
       "sector": "Pharma",
-      "price": 1915.7,
-      "changePct": 0.77,
+      "price": 1899.9,
+      "changePct": -0.82,
       "direction": "BULLISH",
       "confidence": 88,
-      "setup": "Volume Surge",
-      "trigger": "Above \u20b91931.0",
-      "stopLoss": "\u20b91892.2",
-      "optionIdea": "1920 CE",
-      "strategy": "Long Call / Bull Call Spread",
-      "volRatio": 1.21,
-      "rsi": 74.0,
-      "ema20": 1852.41,
-      "reasons": [
-        "Trading above EMA (\u20b91852.4) with positive bias",
-        "Volume 1.2x vs recent average",
-        "RSI at 74 supporting bullish momentum"
-      ],
-      "news": []
-    },
-    {
-      "ticker": "JSWSTEEL",
-      "name": "JSW Steel",
-      "sector": "Metals",
-      "price": 1303.0,
-      "changePct": 0.04,
-      "direction": "BEARISH",
-      "confidence": 88,
       "setup": "NR7 Squeeze",
-      "trigger": "Below \u20b91297.7",
-      "stopLoss": "\u20b91313.4",
-      "optionIdea": "1300 PE",
-      "strategy": "Long Put / Bear Put Spread",
-      "volRatio": 0.96,
-      "rsi": 33.9,
-      "ema20": 1314.76,
+      "trigger": "Above \u20b91917.3",
+      "stopLoss": "\u20b91890.5",
+      "optionIdea": "1900 CE",
+      "strategy": "Long Call / Bull Call Spread",
+      "volRatio": 0.87,
+      "rsi": 63.8,
+      "ema20": 1858.17,
       "reasons": [
         "NR7 narrow range squeeze \u2014 breakout watch",
         "Tight range compression before potential expansion",
-        "RSI at 34 supporting bearish pressure"
+        "RSI at 64 supporting bullish momentum"
       ],
       "news": [
         {
-          "ticker": "JSWSTEEL",
-          "headline": "JSW Steel Stock: Trading, Earnings and Momentum",
-          "source": "Kalkine India",
-          "time": "Tue, 24 Nov 2026",
+          "ticker": "SUNPHARMA",
+          "headline": "Mankind Pharma Share Price",
+          "source": "Upstox",
+          "time": "Thu, 26 Nov 2026",
           "sentiment": "NEUTRAL"
         },
         {
-          "ticker": "JSWSTEEL",
-          "headline": "JSWSTEEL Forecast \u2014 Price Target \u2014 Prediction for 2027",
-          "source": "TradingView",
-          "time": "Thu, 25 Jun 2026",
+          "ticker": "SUNPHARMA",
+          "headline": "Top 14 Pharma Stocks To Buy In India November 2026",
+          "source": "Samco",
+          "time": "Fri, 27 Nov 2026",
+          "sentiment": "POSITIVE"
+        }
+      ]
+    },
+    {
+      "ticker": "TATASTEEL",
+      "name": "Tata Steel",
+      "sector": "Metals",
+      "price": 163.94,
+      "changePct": 0.24,
+      "direction": "BEARISH",
+      "confidence": 88,
+      "setup": "NR7 Squeeze",
+      "trigger": "Below \u20b9163.6",
+      "stopLoss": "\u20b9166.6",
+      "optionIdea": "165 PE",
+      "strategy": "Long Put / Bear Put Spread",
+      "volRatio": 0.87,
+      "rsi": 31.4,
+      "ema20": 173.81,
+      "reasons": [
+        "NR7 narrow range squeeze \u2014 breakout watch",
+        "Tight range compression before potential expansion",
+        "RSI at 31 supporting bearish pressure"
+      ],
+      "news": [
+        {
+          "ticker": "TATASTEEL",
+          "headline": "Tata Steel Share Price - Live NSE: TATASTEEL Stock Price & Chart",
+          "source": "Upstox",
+          "time": "Thu, 26 Nov 2026",
           "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "TATASTEEL",
+          "headline": "Tata Steel and APL Apollo May Rework Deal Structure After Investor Backlash; Shares Under Pressure",
+          "source": "Kotak Neo",
+          "time": "Thu, 26 Nov 2026",
+          "sentiment": "NEUTRAL"
+        }
+      ]
+    },
+    {
+      "ticker": "BEL",
+      "name": "Bharat Electronics",
+      "sector": "Defence",
+      "price": 411.45,
+      "changePct": 1.72,
+      "direction": "BULLISH",
+      "confidence": 88,
+      "setup": "Volume Surge",
+      "trigger": "Above \u20b9414.5",
+      "stopLoss": "\u20b9402.5",
+      "optionIdea": "410 CE",
+      "strategy": "Long Call / Bull Call Spread",
+      "volRatio": 1.98,
+      "rsi": 64.8,
+      "ema20": 395.38,
+      "reasons": [
+        "Trading above EMA (\u20b9395.4) with positive bias",
+        "Volume 2.0x vs recent average",
+        "RSI at 65 supporting bullish momentum"
+      ],
+      "news": [
+        {
+          "ticker": "BEL",
+          "headline": "Bharat Electronics (BEL) Share Price Today (NSE), Market News",
+          "source": "TechGraph",
+          "time": "Sun, 13 Sep 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "BEL",
+          "headline": "Bharat Electronics Shares Fall 4% After Q1 Results As Margins Disappoint Investors",
+          "source": "HDFC Sky",
+          "time": "Tue, 28 Jul 2026",
+          "sentiment": "NEGATIVE"
+        }
+      ]
+    },
+    {
+      "ticker": "HAL",
+      "name": "Hindustan Aeronautics",
+      "sector": "Defence",
+      "price": 5074.0,
+      "changePct": 3.35,
+      "direction": "BULLISH",
+      "confidence": 88,
+      "setup": "Volume Surge",
+      "trigger": "Above \u20b95148.0",
+      "stopLoss": "\u20b94905.0",
+      "optionIdea": "5050 CE",
+      "strategy": "Long Call / Bull Call Spread",
+      "volRatio": 2.98,
+      "rsi": 51.7,
+      "ema20": 4874.36,
+      "reasons": [
+        "Trading above EMA (\u20b94874.4) with positive bias",
+        "Volume 3.0x vs recent average",
+        "RSI at 52 supporting bullish momentum"
+      ],
+      "news": [
+        {
+          "ticker": "HAL",
+          "headline": "Hindustan Aeronautics Ltd. Share Price Today - Hindustan Aeronautics Ltd. Stock Price Live NSE/BSE",
+          "source": "CNBC TV18",
+          "time": "Fri, 20 Nov 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "HAL",
+          "headline": "Hindustan Aeronautics share price rises 3% on heavy volume; here's why",
+          "source": "Business Standard",
+          "time": "Tue, 06 Oct 2026",
+          "sentiment": "NEUTRAL"
+        }
+      ]
+    },
+    {
+      "ticker": "ASHOKLEY",
+      "name": "Ashok Leyland",
+      "sector": "Auto",
+      "price": 151.42,
+      "changePct": -3.03,
+      "direction": "BEARISH",
+      "confidence": 88,
+      "setup": "Volume Surge",
+      "trigger": "Below \u20b9149.2",
+      "stopLoss": "\u20b9156.5",
+      "optionIdea": "150 PE",
+      "strategy": "Long Put / Bear Put Spread",
+      "volRatio": 1.61,
+      "rsi": 26.8,
+      "ema20": 158.02,
+      "reasons": [
+        "Trading below EMA (\u20b9158.0) showing weakness",
+        "Volume 1.6x vs recent average",
+        "RSI at 27 supporting bearish pressure"
+      ],
+      "news": [
+        {
+          "ticker": "ASHOKLEY",
+          "headline": "Ashok Leyland (NSEI:ASHOKLEY) Stock Forecast & Analyst Predictions",
+          "source": "Simply Wall St",
+          "time": "Fri, 20 Nov 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "ASHOKLEY",
+          "headline": "Ashok Leyland up 3%, hovers near 52-week high post Q3; analysts weigh",
+          "source": "Business Standard",
+          "time": "Thu, 12 Feb 2026",
+          "sentiment": "POSITIVE"
+        }
+      ]
+    },
+    {
+      "ticker": "ADANIENT",
+      "name": "Adani Enterprises",
+      "sector": "Conglomerate",
+      "price": 2640.4,
+      "changePct": -0.74,
+      "direction": "BEARISH",
+      "confidence": 88,
+      "setup": "Volume Surge",
+      "trigger": "Below \u20b92625.0",
+      "stopLoss": "\u20b92695.8",
+      "optionIdea": "2650 PE",
+      "strategy": "Long Put / Bear Put Spread",
+      "volRatio": 1.25,
+      "rsi": 38.7,
+      "ema20": 2655.73,
+      "reasons": [
+        "Trading below EMA (\u20b92655.7) showing weakness",
+        "Volume 1.3x vs recent average",
+        "RSI at 39 supporting bearish pressure"
+      ],
+      "news": [
+        {
+          "ticker": "ADANIENT",
+          "headline": "Adani Enterprises, Adani Ports, Adani Green: How Adani Group stocks are performing as benchmarks stay flat",
+          "source": "Upstox",
+          "time": "Wed, 11 Nov 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "ADANIENT",
+          "headline": "Weekly Recap: NSE:ADANIENT share fall and \u20b92 lakh crore plan",
+          "source": "TradingView",
+          "time": "Mon, 12 Oct 2026",
+          "sentiment": "NEGATIVE"
+        }
+      ]
+    },
+    {
+      "ticker": "ADANIPORTS",
+      "name": "Adani Ports",
+      "sector": "Infrastructure",
+      "price": 1880.0,
+      "changePct": -1.64,
+      "direction": "BEARISH",
+      "confidence": 88,
+      "setup": "Volume Surge",
+      "trigger": "Below \u20b91878.3",
+      "stopLoss": "\u20b91945.3",
+      "optionIdea": "1880 PE",
+      "strategy": "Long Put / Bear Put Spread",
+      "volRatio": 3.54,
+      "rsi": 49.1,
+      "ema20": 1886.41,
+      "reasons": [
+        "Trading below EMA (\u20b91886.4) showing weakness",
+        "Volume 3.5x vs recent average",
+        "RSI at 49 supporting bearish pressure"
+      ],
+      "news": [
+        {
+          "ticker": "ADANIPORTS",
+          "headline": "Adani Ports and Special Economic Zone (NSEI:ADANIPORTS) Stock Forecast & Analyst Predictions",
+          "source": "Simply Wall St",
+          "time": "Sun, 22 Nov 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "ADANIPORTS",
+          "headline": "At new highs! Eternal, Groww, Adani Ports, Ather, 16 more NSE 500 stocks",
+          "source": "Business Standard",
+          "time": "Wed, 11 Nov 2026",
+          "sentiment": "POSITIVE"
         }
       ]
     },
@@ -181,29 +348,29 @@
       "ticker": "TRENT",
       "name": "Trent",
       "sector": "Retail",
-      "price": 3262.6,
-      "changePct": -1.72,
+      "price": 3273.0,
+      "changePct": 0.32,
       "direction": "BULLISH",
-      "confidence": 88,
+      "confidence": 86,
       "setup": "NR7 Squeeze",
-      "trigger": "Above \u20b93319.6",
-      "stopLoss": "\u20b93261.2",
+      "trigger": "Above \u20b93300.0",
+      "stopLoss": "\u20b93262.6",
       "optionIdea": "3250 CE",
       "strategy": "Long Call / Bull Call Spread",
-      "volRatio": 0.55,
-      "rsi": 67.1,
-      "ema20": 3127.88,
+      "volRatio": 0.68,
+      "rsi": 68.2,
+      "ema20": 3149.07,
       "reasons": [
-        "NR7 narrow range squeeze \u2014 breakout watch",
+        "Trading above EMA (\u20b93149.1) with positive bias",
         "Tight range compression before potential expansion",
-        "RSI at 67 supporting bullish momentum"
+        "RSI at 68 supporting bullish momentum"
       ],
       "news": [
         {
           "ticker": "TRENT",
-          "headline": "Shriram Finance Replaces Trent in BSE Sensex: Check All Stock Additions and Exits Across BSE 100, Sensex 50 and Other Indices",
-          "source": "Kotak Neo",
-          "time": "Fri, 20 Nov 2026",
+          "headline": "Trent Share Price",
+          "source": "Upstox",
+          "time": "Thu, 26 Nov 2026",
           "sentiment": "NEUTRAL"
         },
         {
@@ -216,116 +383,76 @@
       ]
     },
     {
-      "ticker": "WIPRO",
-      "name": "Wipro",
-      "sector": "IT",
-      "price": 196.54,
-      "changePct": 3.96,
+      "ticker": "POWERGRID",
+      "name": "Power Grid Corp",
+      "sector": "Power",
+      "price": 268.2,
+      "changePct": 0.47,
       "direction": "BULLISH",
-      "confidence": 88,
-      "setup": "Volume Surge",
-      "trigger": "Above \u20b9197.4",
-      "stopLoss": "\u20b9190.6",
-      "optionIdea": "195 CE",
+      "confidence": 76,
+      "setup": "Trend Setup",
+      "trigger": "Above \u20b9270.8",
+      "stopLoss": "\u20b9266.0",
+      "optionIdea": "270 CE",
       "strategy": "Long Call / Bull Call Spread",
-      "volRatio": 2.35,
-      "rsi": 53.0,
-      "ema20": 191.3,
+      "volRatio": 0.96,
+      "rsi": 61.6,
+      "ema20": 261.4,
       "reasons": [
-        "Trading above EMA (\u20b9191.3) with positive bias",
-        "Volume 2.3x vs recent average",
-        "RSI at 53 supporting bullish momentum"
+        "Trading above EMA (\u20b9261.4) with positive bias",
+        "RSI at 62 supporting bullish momentum"
       ],
       "news": [
         {
-          "ticker": "WIPRO",
-          "headline": "Wipro (WIPRO) Share Price Today (NSE), Market News",
+          "ticker": "POWERGRID",
+          "headline": "Power Grid Corporation of India Ltd (POWERGRID-NS) Share Price Today, Live Chart and News",
           "source": "TechGraph",
-          "time": "Sun, 06 Sep 2026",
+          "time": "Thu, 26 Nov 2026",
           "sentiment": "NEUTRAL"
         },
         {
-          "ticker": "WIPRO",
-          "headline": "Wipro down 4% post Q4; muted Q1 guidance, delayed ramp-ups spook investors",
-          "source": "Business Standard",
-          "time": "Fri, 17 Apr 2026",
-          "sentiment": "NEUTRAL"
-        }
-      ]
-    },
-    {
-      "ticker": "HCLTECH",
-      "name": "HCL Technologies",
-      "sector": "IT",
-      "price": 1468.6,
-      "changePct": 6.42,
-      "direction": "BULLISH",
-      "confidence": 88,
-      "setup": "Volume Surge",
-      "trigger": "Above \u20b91468.6",
-      "stopLoss": "\u20b91386.0",
-      "optionIdea": "1460 CE",
-      "strategy": "Long Call / Bull Call Spread",
-      "volRatio": 1.82,
-      "rsi": 60.9,
-      "ema20": 1392.38,
-      "reasons": [
-        "Trading above EMA (\u20b91392.4) with positive bias",
-        "Volume 1.8x vs recent average",
-        "RSI at 61 supporting bullish momentum"
-      ],
-      "news": [
-        {
-          "ticker": "HCLTECH",
-          "headline": "HCL Technologies Share Price - Live NSE: HCLTECH Stock Price & Chart",
-          "source": "Upstox",
-          "time": "Wed, 25 Nov 2026",
-          "sentiment": "NEUTRAL"
-        },
-        {
-          "ticker": "HCLTECH",
-          "headline": "HCL Tech share price crashes over 10%; Rs 38,000 crore gone from market cap as brokerages downgrade stock",
-          "source": "The Times of India",
-          "time": "Wed, 22 Apr 2026",
-          "sentiment": "NEGATIVE"
-        }
-      ]
-    },
-    {
-      "ticker": "INDUSINDBK",
-      "name": "IndusInd Bank",
-      "sector": "Banking",
-      "price": 966.1,
-      "changePct": -0.78,
-      "direction": "BULLISH",
-      "confidence": 88,
-      "setup": "NR7 Squeeze",
-      "trigger": "Above \u20b9973.0",
-      "stopLoss": "\u20b9958.4",
-      "optionIdea": "970 CE",
-      "strategy": "Long Call / Bull Call Spread",
-      "volRatio": 0.48,
-      "rsi": 66.8,
-      "ema20": 918.75,
-      "reasons": [
-        "NR7 narrow range squeeze \u2014 breakout watch",
-        "Tight range compression before potential expansion",
-        "RSI at 67 supporting bullish momentum"
-      ],
-      "news": [
-        {
-          "ticker": "INDUSINDBK",
-          "headline": "IndusInd Bank (INDUSINDBK) Share Price Today (NSE), Market News",
-          "source": "TechGraph",
-          "time": "Thu, 10 Sep 2026",
-          "sentiment": "NEUTRAL"
-        },
-        {
-          "ticker": "INDUSINDBK",
-          "headline": "IndusInd Bank Share Price Falls Over 6% Despite Q1 FY27 Results; Kotak Neo Research Downgrades Stock",
+          "ticker": "POWERGRID",
+          "headline": "Power Grid Corporation of India Share Price Today Live NSE/BSE Graph & Chart",
           "source": "Kotak Neo",
-          "time": "Thu, 23 Jul 2026",
-          "sentiment": "NEGATIVE"
+          "time": "Sat, 17 Jan 2026",
+          "sentiment": "NEUTRAL"
+        }
+      ]
+    },
+    {
+      "ticker": "BANKBARODA",
+      "name": "Bank of Baroda",
+      "sector": "Banking",
+      "price": 274.9,
+      "changePct": 0.11,
+      "direction": "BULLISH",
+      "confidence": 76,
+      "setup": "Trend Setup",
+      "trigger": "Above \u20b9281.5",
+      "stopLoss": "\u20b9273.8",
+      "optionIdea": "275 CE",
+      "strategy": "Long Call / Bull Call Spread",
+      "volRatio": 0.87,
+      "rsi": 69.6,
+      "ema20": 266.22,
+      "reasons": [
+        "Trading above EMA (\u20b9266.2) with positive bias",
+        "RSI at 70 supporting bullish momentum"
+      ],
+      "news": [
+        {
+          "ticker": "BANKBARODA",
+          "headline": "Bank Of Baroda Share Price Rises After Q2 Profit Jumps 36%; NSE Stake Sale Adds \u20b91,340 Crore",
+          "source": "Kotak Neo",
+          "time": "Mon, 02 Nov 2026",
+          "sentiment": "POSITIVE"
+        },
+        {
+          "ticker": "BANKBARODA",
+          "headline": "Bank of Baroda slips 4%; down 23% from 52-wk high; should you buy on dips?",
+          "source": "Business Standard",
+          "time": "Fri, 03 Jul 2026",
+          "sentiment": "POSITIVE"
         }
       ]
     },
@@ -333,248 +460,119 @@
       "ticker": "COALINDIA",
       "name": "Coal India",
       "sector": "Mining",
-      "price": 388.9,
-      "changePct": 1.01,
+      "price": 388.85,
+      "changePct": -0.01,
       "direction": "BEARISH",
-      "confidence": 88,
-      "setup": "NR7 Squeeze",
-      "trigger": "Below \u20b9384.3",
-      "stopLoss": "\u20b9389.5",
+      "confidence": 76,
+      "setup": "Trend Setup",
+      "trigger": "Below \u20b9384.5",
+      "stopLoss": "\u20b9390.7",
       "optionIdea": "390 PE",
       "strategy": "Long Put / Bear Put Spread",
-      "volRatio": 0.54,
-      "rsi": 40.3,
-      "ema20": 392.42,
+      "volRatio": 0.73,
+      "rsi": 44.6,
+      "ema20": 391.32,
       "reasons": [
-        "NR7 narrow range squeeze \u2014 breakout watch",
-        "Tight range compression before potential expansion",
-        "RSI at 40 supporting bearish pressure"
+        "Trading below EMA (\u20b9391.3) showing weakness",
+        "RSI at 45 supporting bearish pressure"
       ],
       "news": [
         {
           "ticker": "COALINDIA",
-          "headline": "Mahanadi Coalfields Ltd Share Price Today | Mahanadi Coalfields Live NSE/BSE",
-          "source": "Value Research",
-          "time": "Tue, 17 Nov 2026",
+          "headline": "Mahanadi Coalfields shares list flat at 2% discount to IPO price; here\u2019s how to trade Coal India unit",
+          "source": "Moneycontrol.com",
+          "time": "Fri, 27 Nov 2026",
           "sentiment": "NEUTRAL"
         },
         {
           "ticker": "COALINDIA",
-          "headline": "Coal India Shares Slip After Q2 Earnings; EBITDA Climbs 28% To \u20b911,447 Crore, Margin Expands",
-          "source": "Kotak Neo",
-          "time": "Fri, 30 Oct 2026",
+          "headline": "Mahanadi Coalfields lists at 134, down by 2% to issue price",
+          "source": "India Infoline",
+          "time": "Fri, 27 Nov 2026",
           "sentiment": "NEUTRAL"
         }
       ]
     },
     {
-      "ticker": "BPCL",
-      "name": "BPCL",
+      "ticker": "ONGC",
+      "name": "ONGC",
       "sector": "Energy",
-      "price": 307.65,
-      "changePct": -0.74,
+      "price": 224.31,
+      "changePct": 0.64,
       "direction": "BULLISH",
-      "confidence": 88,
-      "setup": "NR7 Squeeze",
-      "trigger": "Above \u20b9309.0",
-      "stopLoss": "\u20b9305.1",
-      "optionIdea": "310 CE",
-      "strategy": "Long Call / Bull Call Spread",
-      "volRatio": 0.64,
-      "rsi": 52.4,
-      "ema20": 305.03,
-      "reasons": [
-        "NR7 narrow range squeeze \u2014 breakout watch",
-        "Tight range compression before potential expansion",
-        "RSI at 52 supporting bullish momentum"
-      ],
-      "news": [
-        {
-          "ticker": "BPCL",
-          "headline": "BPCL Share Price Today - Bharat Petroleum on NSE/BSE",
-          "source": "scanx.trade",
-          "time": "Tue, 24 Nov 2026",
-          "sentiment": "NEUTRAL"
-        },
-        {
-          "ticker": "BPCL",
-          "headline": "BPCL Share Price Falls 2.1%; Valuation and Peers",
-          "source": "Univest",
-          "time": "Mon, 23 Nov 2026",
-          "sentiment": "NEGATIVE"
-        }
-      ]
-    },
-    {
-      "ticker": "JIOFIN",
-      "name": "Jio Financial Services",
-      "sector": "Finance",
-      "price": 227.0,
-      "changePct": 1.86,
-      "direction": "BULLISH",
-      "confidence": 88,
-      "setup": "Volume Surge",
-      "trigger": "Above \u20b9230.0",
-      "stopLoss": "\u20b9222.6",
+      "confidence": 76,
+      "setup": "Trend Setup",
+      "trigger": "Above \u20b9224.9",
+      "stopLoss": "\u20b9222.7",
       "optionIdea": "225 CE",
       "strategy": "Long Call / Bull Call Spread",
-      "volRatio": 1.29,
-      "rsi": 55.8,
-      "ema20": 221.84,
+      "volRatio": 0.67,
+      "rsi": 55.5,
+      "ema20": 223.6,
       "reasons": [
-        "Trading above EMA (\u20b9221.8) with positive bias",
-        "Volume 1.3x vs recent average",
-        "RSI at 56 supporting bullish momentum"
+        "Trading above EMA (\u20b9223.6) with positive bias",
+        "RSI at 55 supporting bullish momentum"
       ],
       "news": [
         {
-          "ticker": "JIOFIN",
-          "headline": "JIO Financial Services Share Price and Price Action Review",
-          "source": "Univest",
+          "ticker": "ONGC",
+          "headline": "Oil and Natural Gas (NSEI:ONGC) Stock Forecast & Analyst Predictions",
+          "source": "Simply Wall St",
+          "time": "Mon, 16 Nov 2026",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "ticker": "ONGC",
+          "headline": "ONGC Forecast \u2014 Price Target \u2014 Prediction for 2027",
+          "source": "TradingView",
+          "time": "Thu, 25 Jun 2026",
+          "sentiment": "NEUTRAL"
+        }
+      ]
+    },
+    {
+      "ticker": "BHARTIARTL",
+      "name": "Bharti Airtel",
+      "sector": "Telecom",
+      "price": 2067.9,
+      "changePct": -1.65,
+      "direction": "BEARISH",
+      "confidence": 68,
+      "setup": "Trend Setup",
+      "trigger": "Below \u20b92056.5",
+      "stopLoss": "\u20b92102.5",
+      "optionIdea": "2050 PE",
+      "strategy": "Long Put / Bear Put Spread",
+      "volRatio": 0.58,
+      "rsi": 51.6,
+      "ema20": 2087.69,
+      "reasons": [
+        "Trading below EMA (\u20b92087.7) showing weakness"
+      ],
+      "news": [
+        {
+          "ticker": "BHARTIARTL",
+          "headline": "Bharti Airtel Share Price - Live NSE: BHARTIARTL Stock Price & Chart",
+          "source": "Upstox",
           "time": "Mon, 23 Nov 2026",
           "sentiment": "NEUTRAL"
         },
         {
-          "ticker": "JIOFIN",
-          "headline": "Jio Financial, Reliance Shares Fall Up To 2%; Here Are The Potential Reasons",
-          "source": "Kotak Neo",
-          "time": "Wed, 28 Oct 2026",
-          "sentiment": "NEGATIVE"
-        }
-      ]
-    },
-    {
-      "ticker": "RELIANCE",
-      "name": "Reliance Industries",
-      "sector": "Energy",
-      "price": 1396.2,
-      "changePct": 1.62,
-      "direction": "BULLISH",
-      "confidence": 80,
-      "setup": "Volume Surge",
-      "trigger": "Above \u20b91401.7",
-      "stopLoss": "\u20b91361.8",
-      "optionIdea": "1400 CE",
-      "strategy": "Long Call / Bull Call Spread",
-      "volRatio": 1.35,
-      "rsi": 79.1,
-      "ema20": 1325.85,
-      "reasons": [
-        "Trading above EMA (\u20b91325.9) with positive bias",
-        "Volume 1.3x vs recent average"
-      ],
-      "news": [
-        {
-          "ticker": "RELIANCE",
-          "headline": "Bell-ringing ceremony marks the stock market debut of Jio Platforms Limited",
-          "source": "Facebook",
-          "time": "Tue, 27 Oct 2026",
-          "sentiment": "NEUTRAL"
-        },
-        {
-          "ticker": "RELIANCE",
-          "headline": "Is It Smart To Buy Reliance Industries Limited (NSE:RELIANCE) Before It Goes Ex-Dividend?",
-          "source": "Simply Wall St",
-          "time": "Sun, 31 May 2026",
-          "sentiment": "POSITIVE"
-        }
-      ]
-    },
-    {
-      "ticker": "HDFCBANK",
-      "name": "HDFC Bank",
-      "sector": "Banking",
-      "price": 862.0,
-      "changePct": 1.87,
-      "direction": "BULLISH",
-      "confidence": 80,
-      "setup": "Volume Surge",
-      "trigger": "Above \u20b9871.6",
-      "stopLoss": "\u20b9844.3",
-      "optionIdea": "860 CE",
-      "strategy": "Long Call / Bull Call Spread",
-      "volRatio": 1.76,
-      "rsi": 79.1,
-      "ema20": 791.85,
-      "reasons": [
-        "Trading above EMA (\u20b9791.8) with positive bias",
-        "Volume 1.8x vs recent average"
-      ],
-      "news": [
-        {
-          "ticker": "HDFCBANK",
-          "headline": "HDFC Bank Share Price - Live NSE: HDFCBANK Stock Price & Chart",
-          "source": "Upstox",
-          "time": "Wed, 25 Nov 2026",
-          "sentiment": "NEUTRAL"
-        },
-        {
-          "ticker": "HDFCBANK",
+          "ticker": "BHARTIARTL",
           "headline": "HDFC Bank vaults 30% from Oct low; surpasses Airtel in market cap ranking",
           "source": "Business Standard",
           "time": "Thu, 26 Nov 2026",
           "sentiment": "NEGATIVE"
         }
       ]
-    },
-    {
-      "ticker": "SBIN",
-      "name": "State Bank of India",
-      "sector": "Banking",
-      "price": 1136.65,
-      "changePct": -0.13,
-      "direction": "BULLISH",
-      "confidence": 80,
-      "setup": "NR7 Squeeze",
-      "trigger": "Above \u20b91150.1",
-      "stopLoss": "\u20b91131.2",
-      "optionIdea": "1140 CE",
-      "strategy": "Long Call / Bull Call Spread",
-      "volRatio": 0.43,
-      "rsi": 83.0,
-      "ema20": 1076.95,
-      "reasons": [
-        "NR7 narrow range squeeze \u2014 breakout watch",
-        "Tight range compression before potential expansion"
-      ],
-      "news": [
-        {
-          "ticker": "SBIN",
-          "headline": "SBI Share Price - Live NSE: SBIN Stock Price & Chart",
-          "source": "Upstox",
-          "time": "Thu, 26 Nov 2026",
-          "sentiment": "NEUTRAL"
-        },
-        {
-          "ticker": "SBIN",
-          "headline": "SBIN Share Price Today - State Bank of India on NSE/BSE",
-          "source": "scanx.trade",
-          "time": "Tue, 24 Nov 2026",
-          "sentiment": "NEUTRAL"
-        }
-      ]
     }
   ],
   "newsFeed": [
     {
-      "ticker": "RELIANCE",
-      "headline": "Bell-ringing ceremony marks the stock market debut of Jio Platforms Limited",
-      "source": "Facebook",
-      "time": "Tue, 27 Oct 2026",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "ticker": "RELIANCE",
-      "headline": "Is It Smart To Buy Reliance Industries Limited (NSE:RELIANCE) Before It Goes Ex-Dividend?",
-      "source": "Simply Wall St",
-      "time": "Sun, 31 May 2026",
-      "sentiment": "POSITIVE"
-    },
-    {
       "ticker": "HDFCBANK",
-      "headline": "HDFC Bank Share Price - Live NSE: HDFCBANK Stock Price & Chart",
-      "source": "Upstox",
-      "time": "Wed, 25 Nov 2026",
+      "headline": "HDFC Bank Limited (HDFCBANK.NS) Stock Price, News, Quote & History",
+      "source": "Yahoo! Finance Canada",
+      "time": "Thu, 26 Nov 2026",
       "sentiment": "NEUTRAL"
     },
     {
@@ -585,52 +583,24 @@
       "sentiment": "NEGATIVE"
     },
     {
-      "ticker": "INFY",
-      "headline": "NSE rises 5.5% to enter India's top 10 most valuable companies list; overtakes L&T, LIC, Infosys",
-      "source": "Moneycontrol.com",
-      "time": "Wed, 25 Nov 2026",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "ticker": "INFY",
-      "headline": "INFY Forecast \u2014 Price Target \u2014 Prediction for 2027",
-      "source": "TradingView",
-      "time": "Thu, 25 Jun 2026",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "ticker": "TCS",
-      "headline": "Tata Consultancy Services Limited (TCS.NS) stock price, news, quote and history",
-      "source": "Yahoo Finance Singapore",
-      "time": "Thu, 26 Nov 2026",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "ticker": "TCS",
-      "headline": "TCS Share Price",
+      "ticker": "BHARTIARTL",
+      "headline": "Bharti Airtel Share Price - Live NSE: BHARTIARTL Stock Price & Chart",
       "source": "Upstox",
-      "time": "Wed, 25 Nov 2026",
+      "time": "Mon, 23 Nov 2026",
       "sentiment": "NEUTRAL"
     },
     {
-      "ticker": "SBIN",
-      "headline": "SBI Share Price - Live NSE: SBIN Stock Price & Chart",
-      "source": "Upstox",
+      "ticker": "BHARTIARTL",
+      "headline": "HDFC Bank vaults 30% from Oct low; surpasses Airtel in market cap ranking",
+      "source": "Business Standard",
       "time": "Thu, 26 Nov 2026",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "ticker": "SBIN",
-      "headline": "SBIN Share Price Today - State Bank of India on NSE/BSE",
-      "source": "scanx.trade",
-      "time": "Tue, 24 Nov 2026",
-      "sentiment": "NEUTRAL"
+      "sentiment": "NEGATIVE"
     },
     {
       "ticker": "LT",
       "headline": "Larsen & Toubro Share Price - Live NSE: LT Stock Price & Chart",
       "source": "Upstox",
-      "time": "Wed, 25 Nov 2026",
+      "time": "Thu, 26 Nov 2026",
       "sentiment": "NEUTRAL"
     },
     {
@@ -638,6 +608,48 @@
       "headline": "NSE rises 5.5% to enter India's top 10 most valuable companies list; overtakes L&T, LIC, Infosys",
       "source": "Moneycontrol.com",
       "time": "Wed, 25 Nov 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "SUNPHARMA",
+      "headline": "Mankind Pharma Share Price",
+      "source": "Upstox",
+      "time": "Thu, 26 Nov 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "SUNPHARMA",
+      "headline": "Top 14 Pharma Stocks To Buy In India November 2026",
+      "source": "Samco",
+      "time": "Fri, 27 Nov 2026",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "ticker": "POWERGRID",
+      "headline": "Power Grid Corporation of India Ltd (POWERGRID-NS) Share Price Today, Live Chart and News",
+      "source": "TechGraph",
+      "time": "Thu, 26 Nov 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "POWERGRID",
+      "headline": "Power Grid Corporation of India Share Price Today Live NSE/BSE Graph & Chart",
+      "source": "Kotak Neo",
+      "time": "Sat, 17 Jan 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "TATASTEEL",
+      "headline": "Tata Steel Share Price - Live NSE: TATASTEEL Stock Price & Chart",
+      "source": "Upstox",
+      "time": "Thu, 26 Nov 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "TATASTEEL",
+      "headline": "Tata Steel and APL Apollo May Rework Deal Structure After Investor Backlash; Shares Under Pressure",
+      "source": "Kotak Neo",
+      "time": "Thu, 26 Nov 2026",
       "sentiment": "NEUTRAL"
     }
   ]

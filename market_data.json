@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27 Nov 2026, 05:13 PM IST",
+  "lastUpdated": "27 Nov 2026, 07:10 PM IST",
   "totalScanned": 39,
   "stocks": [
     {
@@ -61,22 +61,7 @@
         "Tight range compression before potential expansion",
         "RSI at 56 supporting bullish momentum"
       ],
-      "news": [
-        {
-          "ticker": "LT",
-          "headline": "Larsen & Toubro Share Price - Live NSE: LT Stock Price & Chart",
-          "source": "Upstox",
-          "time": "Thu, 26 Nov 2026",
-          "sentiment": "NEUTRAL"
-        },
-        {
-          "ticker": "LT",
-          "headline": "NSE rises 5.5% to enter India's top 10 most valuable companies list; overtakes L&T, LIC, Infosys",
-          "source": "Moneycontrol.com",
-          "time": "Wed, 25 Nov 2026",
-          "sentiment": "NEUTRAL"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "SUNPHARMA",
@@ -102,9 +87,9 @@
       "news": [
         {
           "ticker": "SUNPHARMA",
-          "headline": "Mankind Pharma Share Price",
+          "headline": "Cipla Share Price",
           "source": "Upstox",
-          "time": "Thu, 26 Nov 2026",
+          "time": "Fri, 27 Nov 2026",
           "sentiment": "NEUTRAL"
         },
         {
@@ -185,10 +170,10 @@
         },
         {
           "ticker": "BEL",
-          "headline": "Bharat Electronics Shares Fall 4% After Q1 Results As Margins Disappoint Investors",
-          "source": "HDFC Sky",
-          "time": "Tue, 28 Jul 2026",
-          "sentiment": "NEGATIVE"
+          "headline": "Does Bharat Electronics (NSE:BEL) Deserve A Spot On Your Watchlist?",
+          "source": "Simply Wall St",
+          "time": "Sat, 21 Nov 2026",
+          "sentiment": "NEUTRAL"
         }
       ]
     },
@@ -216,9 +201,9 @@
       "news": [
         {
           "ticker": "HAL",
-          "headline": "Hindustan Aeronautics Ltd. Share Price Today - Hindustan Aeronautics Ltd. Stock Price Live NSE/BSE",
-          "source": "CNBC TV18",
-          "time": "Fri, 20 Nov 2026",
+          "headline": "HAL Share Price, Earnings and Weekly Resistance Breakout",
+          "source": "Kalkine India",
+          "time": "Fri, 27 Nov 2026",
           "sentiment": "NEUTRAL"
         },
         {
@@ -292,17 +277,17 @@
       "news": [
         {
           "ticker": "ADANIENT",
-          "headline": "Adani Enterprises, Adani Ports, Adani Green: How Adani Group stocks are performing as benchmarks stay flat",
-          "source": "Upstox",
-          "time": "Wed, 11 Nov 2026",
-          "sentiment": "NEUTRAL"
+          "headline": "Should You Think About Buying Adani Enterprises Limited (NSE:ADANIENT) Now?",
+          "source": "Simply Wall St",
+          "time": "Thu, 27 Aug 2026",
+          "sentiment": "POSITIVE"
         },
         {
           "ticker": "ADANIENT",
-          "headline": "Weekly Recap: NSE:ADANIENT share fall and \u20b92 lakh crore plan",
-          "source": "TradingView",
-          "time": "Mon, 12 Oct 2026",
-          "sentiment": "NEGATIVE"
+          "headline": "Here's why Adani Enterprises share price rose 2% in trade on December 4",
+          "source": "Business Standard",
+          "time": "Thu, 04 Dec 2025",
+          "sentiment": "NEUTRAL"
         }
       ]
     },
@@ -375,10 +360,10 @@
         },
         {
           "ticker": "TRENT",
-          "headline": "Trent shares jump over 6% on strong Q2 nos; brokerages stay bullish",
-          "source": "Business Standard",
-          "time": "Fri, 30 Oct 2026",
-          "sentiment": "POSITIVE"
+          "headline": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com",
+          "source": "NSE",
+          "time": "Mon, 23 Nov 2026",
+          "sentiment": "NEUTRAL"
         }
       ]
     },
@@ -449,10 +434,10 @@
         },
         {
           "ticker": "BANKBARODA",
-          "headline": "Bank of Baroda slips 4%; down 23% from 52-wk high; should you buy on dips?",
+          "headline": "Bank of Baroda down 3%, top loser among PSU Banks; why is stock falling?",
           "source": "Business Standard",
-          "time": "Fri, 03 Jul 2026",
-          "sentiment": "POSITIVE"
+          "time": "Wed, 14 Oct 2026",
+          "sentiment": "NEGATIVE"
         }
       ]
     },
@@ -516,16 +501,16 @@
       "news": [
         {
           "ticker": "ONGC",
-          "headline": "Oil and Natural Gas (NSEI:ONGC) Stock Forecast & Analyst Predictions",
-          "source": "Simply Wall St",
-          "time": "Mon, 16 Nov 2026",
+          "headline": "ONGC Forecast \u2014 Price Target \u2014 Prediction for 2027",
+          "source": "TradingView",
+          "time": "Thu, 25 Jun 2026",
           "sentiment": "NEUTRAL"
         },
         {
           "ticker": "ONGC",
-          "headline": "ONGC Forecast \u2014 Price Target \u2014 Prediction for 2027",
-          "source": "TradingView",
-          "time": "Thu, 25 Jun 2026",
+          "headline": "Oil and Natural Gas (NSEI:ONGC) Stock Forecast & Analyst Predictions",
+          "source": "Simply Wall St",
+          "time": "Mon, 16 Nov 2026",
           "sentiment": "NEUTRAL"
         }
       ]
@@ -597,24 +582,10 @@
       "sentiment": "NEGATIVE"
     },
     {
-      "ticker": "LT",
-      "headline": "Larsen & Toubro Share Price - Live NSE: LT Stock Price & Chart",
-      "source": "Upstox",
-      "time": "Thu, 26 Nov 2026",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "ticker": "LT",
-      "headline": "NSE rises 5.5% to enter India's top 10 most valuable companies list; overtakes L&T, LIC, Infosys",
-      "source": "Moneycontrol.com",
-      "time": "Wed, 25 Nov 2026",
-      "sentiment": "NEUTRAL"
-    },
-    {
       "ticker": "SUNPHARMA",
-      "headline": "Mankind Pharma Share Price",
+      "headline": "Cipla Share Price",
       "source": "Upstox",
-      "time": "Thu, 26 Nov 2026",
+      "time": "Fri, 27 Nov 2026",
       "sentiment": "NEUTRAL"
     },
     {
@@ -650,6 +621,20 @@
       "headline": "Tata Steel and APL Apollo May Rework Deal Structure After Investor Backlash; Shares Under Pressure",
       "source": "Kotak Neo",
       "time": "Thu, 26 Nov 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "HINDALCO",
+      "headline": "HINDALCO Share Price Today - Hindalco Industries on NSE/BSE",
+      "source": "scanx.trade",
+      "time": "Tue, 24 Nov 2026",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "ticker": "HINDALCO",
+      "headline": "Hindalco Industries (NSEI:HINDALCO) Stock Forecast & Analyst Predictions",
+      "source": "Simply Wall St",
+      "time": "Sun, 22 Nov 2026",
       "sentiment": "NEUTRAL"
     }
   ]
